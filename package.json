@@ -1,0 +1,21 @@
+{
+  "name": "@types/qiyu-sdk.d.ts",
+  "version": "0.0.1",
+  "description": "A Typescript/Typings definition for qiyu-sdk.",
+  "main": "index.d.ts",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MrKou47/qiyu-sdk.d.ts.git"
+  },
+  "author": "mrkou47",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MrKou47/qiyu-sdk.d.ts/issues"
+  },
+  "homepage": "https://github.com/MrKou47/qiyu-sdk.d.ts#readme",
+  "typescript":{
+      "definitions":[
+          "index.d.ts"
+      ]
+  }
+}
